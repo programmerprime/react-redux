@@ -24,7 +24,7 @@ function App() {
         <ItemContainer cake />
         <ItemContainer />
 
-        {/* <UserContainer /> */}
+        <UserContainer />
       </div>
     </Provider>
   );

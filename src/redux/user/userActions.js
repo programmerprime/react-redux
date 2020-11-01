@@ -3,6 +3,7 @@ import {
   FETCH_USER_SUCCESS,
   FETCH_USER_FAILURE,
 } from "./userTypes";
+
 import axios from "axios";
 
 export const fetchUserRequest = () => {
