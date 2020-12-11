@@ -17,13 +17,10 @@ function App() {
         <CakeContainer />
         <HooksCakeContainer />
         <NewCakeContainer />
-
         <IceCreamContainer />
         <HooksIceCreamContainer />
-
         <ItemContainer cake />
         <ItemContainer />
-
         <UserContainer />
       </div>
     </Provider>
